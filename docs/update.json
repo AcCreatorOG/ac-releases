@@ -2,13 +2,13 @@
   "schema": 1,
   "app": "AC",
   "channel": "beta",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "released": "2026-09-14",
-  "download_url": "https://github.com/AcCreatorOG/ac-releases/releases/download/v1.0.0-beta.1/AC-Setup-1.0.0-beta.1.exe",
-  "sha256": "d132dadbe7d7aedcf73e1384fae869e05671ba091920a969a58224416e588e0e",
+  "download_url": "https://github.com/AcCreatorOG/ac-releases/releases/download/v1.0.0-beta.2/AC-Setup-1.0.0-beta.2.exe",
+  "sha256": "e8a93c86f58dfac8bd4a297a04096582f13bf5563cdb0d3c435c8c602531e0c5",
   "notes": [
-    "Added About & Updates with a safe, visible update check.",
-    "Added the first Windows installer and public release channel.",
+    "Fixed the Creator Check pop-up so it appears above AC before it blocks input.",
+    "The Creator Check now releases its input lock safely when verified, cancelled, or closed.",
     "This is an unsigned beta installer; Windows may show an unknown-publisher warning."
   ]
 }
