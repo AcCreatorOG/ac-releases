@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "app": "AC",
+  "channel": "beta",
+  "version": "REPLACE_WITH_VERSION",
+  "released": "REPLACE_WITH_YYYY-MM-DD",
+  "download_url": "REPLACE_WITH_GITHUB_RELEASE_INSTALLER_URL",
+  "sha256": "REPLACE_WITH_INSTALLER_SHA256",
+  "notes": [
+    "REPLACE_WITH_A_SHORT_USER_FACING_RELEASE_NOTE"
+  ]
+}
